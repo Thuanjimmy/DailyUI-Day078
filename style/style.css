@@ -1,0 +1,54 @@
+body {
+  background-color: #222831;
+  color: #222831;
+}
+
+.box {
+  width: 320px;
+  height: 600px;
+  background-color: #ffffff;
+  border-radius: 50px;
+  border: #dddddd 10px solid;
+  margin: 75px auto;
+  padding: 10px;
+}
+
+h3 {
+  margin-top: 25px;
+}
+p {
+  margin-bottom: 0;
+}
+.notch {
+  background-color: #dddddd;
+  width: 160px;
+  height: 25px;
+  border-radius: 75px;
+  position: absolute;
+  top: 75px;
+  right: 640px;
+}
+
+.right {
+  text-align: right;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+.pic {
+  position: absolute;
+  width: 20%;
+}
+.center {
+  position: relative;
+  text-align: center;
+  margin-top: 145px;
+}
+.btn-lg {
+  margin-top: 25px;
+}
+.grey {
+  color: grey;
+  font-size: 0.85rem;
+}
